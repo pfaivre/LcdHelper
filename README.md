@@ -19,7 +19,7 @@ void setup() {
 	LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 	lcd.begin(16, 2);
 	
-	// Create a new histogram
+	// Create a new helper
 	LcdHelper screen(&lcd, 16, 2);
 	
 	// Print a message on two pages for 10 seconds
