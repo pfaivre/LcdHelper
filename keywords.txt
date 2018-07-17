@@ -7,15 +7,15 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-LcdHelper KEYWORD1
+LcdHelper	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-print KEYWORD2
-update KEYWORD2
-clear KEYWORD2
+print	KEYWORD2
+update	KEYWORD2
+clear	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
